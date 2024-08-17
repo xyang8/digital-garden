@@ -27,7 +27,7 @@ export const defaultContentPageLayout: PageLayout = {
   ],
   right: [
     Component.DesktopOnly(Component.TableOfContents()),
-    Component.DesktopOnly(Component.RecentNotes({ showTags:false, limit: 3 })),
+    Component.DesktopOnly(Component.RecentNotes({ linkToMore: "tags/", limit: 1, showTags:false })),
   ],
 }
 
