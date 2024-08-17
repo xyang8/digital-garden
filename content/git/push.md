@@ -7,6 +7,7 @@ title: Git Push
 `git push`
 
 > [!example]
+>
 > ```console
 > $ git add main.cpp
 > $ git commit -m "Add main"
@@ -14,6 +15,7 @@ title: Git Push
 > ```
 
 > [!example]
+>
 > git add main.cpp
 > git commit -m "Add main"
 > git push origin main
