@@ -14,8 +14,8 @@ title: Git Push
 >```
 
 >[!example]
->$ git add main.cpp
->$ git commit -m "Add main"
->$ git push origin main
+>git add main.cpp
+>git commit -m "Add main"
+>git push origin main
 
 
