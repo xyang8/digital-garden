@@ -10,3 +10,7 @@ description: My Second Brain
 ---
 
 Test!
+
+>[!quote]
+>Se non riesci a spiegare un argomento semplicemente, significa che non l’hai capito abbastanza.
+>Ciò che non posso creare, non capisco.
